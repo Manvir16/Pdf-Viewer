@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+.pdf-container{
+  width: 100%;
+  height: 800px;
+  background-color: #FFE6E8;
+  overflow-y: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error-msg{
+  width: 100%;
+  color: red;
+  font-size: 14px;
+  font-weight: 600;
+}
+.bg{
+  background-color: #FFE6E8;
+}
